@@ -27,7 +27,8 @@ def get_OCR_path():
         root.deiconify()
         root.destroy()
         return filepath
-    return
+    else:
+        exit()
 
 
 def config_check():
