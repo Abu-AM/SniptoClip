@@ -1,5 +1,7 @@
 # SniptoClip
 
+![sniptoclip demo](https://files.catbox.moe/jl8cmg.gif)
+
 This program lets you select a region of your screen, uses OCR to read the text, and copies the text to your clipboard.
 
 # Usage:
